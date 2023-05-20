@@ -6,7 +6,7 @@
 |-|-|
 | Задание | см. ниже |
 | Предыдущая лабораторная работа | [Лабораторная работа №8](https://github.com/PatriotRossii/assembly_laboratories_8) |
-| Следующая лабораторная работа | --- |
+| Следующая лабораторная работа | [Лабораторная работа №10](https://github.com/PatriotRossii/assembly_laboratories_10) |
 
 * [Перечень всех лабораторных работ](https://github.com/BFI-2202/assembly_laboratories)
 
